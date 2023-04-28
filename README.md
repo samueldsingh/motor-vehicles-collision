@@ -7,4 +7,5 @@ Some questions that were solved using this python code and streamlit application
 - What were the top 5 dangerous streets by affected class?
 
 The end product is:
-https://user-images.githubusercontent.com/62851341/235052033-f99ba912-8875-4d98-9116-138508ba132f.mp4
+
+https://user-images.githubusercontent.com/62851341/235052164-6b6eb301-4dac-40df-be43-0002f5d4970a.mp4
